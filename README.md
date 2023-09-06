@@ -20,7 +20,7 @@
 <p align="left">
 <a href="https://twitter.com/asershurrab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="asershurrab" height="30" width="40" /></a>
 <a href="https://instagram.com/asershourab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="asershourab" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ucw_newbz3mxbfwxoitiv6rw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucw_newbz3mxbfwxoitiv6rw" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCw_Newbz3mXBfWXOitiv6rw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucw_newbz3mxbfwxoitiv6rw" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/aser-404" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aser-404" height="30" width="40" /></a>
 </p>
 
