@@ -1,5 +1,5 @@
-<h1 align="center">Hey Everyone 👋, I'm Aser Shurrab</h1>
-<h3 align="center"> BackEnd developer</h3>
+<h1 align="center"style="color:black"  >Hey Everyone 👋, I'm Aser Shurrab</h1>
+<h3 align="center" style="color:black"  > BackEnd developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aser-405&label=Profile%20views&color=0e75b6&style=flat" alt="aser-405" /> </p>
 
@@ -32,5 +32,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aser-405&show_icons=true&locale=en" alt="aser-405" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aser-405&" alt="aser-405" /></p>
-</center>
+
